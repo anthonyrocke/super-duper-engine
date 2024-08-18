@@ -1,0 +1,28 @@
+.tony{
+    background-color: purple;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    margin: 20px;
+}
+
+.tony:hover {
+    background-color: rgb(255, 0, 13);
+
+}
+.denis{padding-left: 50px;padding-right: 50px;padding-bottom: 50px;padding-top: 0;
+      background-color: aqua;
+      border-radius:50px/ 20px;
+      margin-top: 50px;
+      margin-left: 50px;
+      margin-right: 100px;
+      height: 150px;
+      width: 59%;
+      border-style: double; color: rgb(255, 0, 13);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: purple;
+      font-size: 25px;
+      font-style: bolder;
+      text-decoration: underline;
+      line-height: 20px;
+}
